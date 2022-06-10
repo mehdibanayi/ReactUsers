@@ -8,7 +8,7 @@ const todosSlice = createSlice({
     },
     reducers : {
         addTodo : (state , action ) => {
-            state.list.psuh(action.payload)
+            state.list.push(action.payload)
         }
     }
 })
