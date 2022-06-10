@@ -1,2 +1,1 @@
-# ReactUsers
-اولین پروژه ری اکت کمپ ری اکت راکت
+Todo List with tailwind and redux
